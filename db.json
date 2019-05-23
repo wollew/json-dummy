@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "example",
+      "url": "https://example-files.online-convert.com/audio/m4a/example.m4a"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
