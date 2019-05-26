@@ -22,7 +22,7 @@
   "files": [
     {
       "id": 4,
-      "title": "examples",
+      "title": "all examples",
       "uris": [ 
           "https://github.com/wollew/json-dummy/blob/master/example.m4a?raw=true",
           "https://github.com/wollew/json-dummy/blob/master/example2.m4a?raw=true",
@@ -31,21 +31,21 @@
     },
    {
       "id": 1,
-      "title": "examples",
+      "title": "example1",
       "uris": [ 
           "https://github.com/wollew/json-dummy/blob/master/example.m4a?raw=true"    
       ]
     },
    {
       "id": 3,
-      "title": "examples",
+      "title": "example3",
       "uris": [ 
           "https://github.com/wollew/json-dummy/blob/master/example3.m4a?raw=true"    
       ]
     },
    {
       "id": 2,
-      "title": "examples",
+      "title": "example2",
       "uris": [ 
           "https://github.com/wollew/json-dummy/blob/master/example2.m4a?raw=true"    
       ]
